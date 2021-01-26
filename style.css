@@ -1,0 +1,72 @@
+nav{
+    display: block;
+}
+
+.container{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    text-align: center;
+}
+
+.nav{
+    background-image: url(https://images.pexels.com/photos/2387793/pexels-photo-2387793.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260);
+    background-position: center;
+    background-size: cover;
+    padding:1.5rem 1rem;
+    border-bottom-left-radius: 1rem;
+    color: aliceblue;
+}
+
+.nav-allign{
+    text-align: right;
+}
+
+.middle{
+    background-image:url("/images/wallpaperflare.com_wallpaper.jpg");
+    height: 700px;
+    width: auto;
+    /* background-size:100%; */
+    background-repeat: no-repeat;
+    background-size: auto cover ;
+    opacity: 0.8;
+}
+
+.link{
+    text-decoration: none;
+    padding: 0.4rem 1rem;
+    margin: auto;
+    font-size: 1.3rem;
+}
+
+.footer{
+    /* margin-top: 12.5rem; */
+    background-color: rgb(46, 46, 46);
+    color: honeydew;
+    /* padding:0.5rem 1rem; */
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    text-align: center;
+
+}
+.footer-top{
+    margin-top: 0.5rem;
+    background-color: rgb(46, 46, 46);
+    color: honeydew;
+    /* padding:0.5rem 1rem; */
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    text-align: center;
+}
+
+.footer-heading{
+    font-family: 'EB Garamond', serif;
+    font-size: 1rem;
+    letter-spacing: 8px;
+    /* text-shadow: 3px 3px 3px grey; */
+}
+
+.footer-image{
+    height:2rem;
+    width: 2rem;
+    
+}
