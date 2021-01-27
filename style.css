@@ -17,7 +17,6 @@ nav{
 
 .nav{
     background-color: rgba(39, 39, 39, 0.8);
-    /* background-image: url(https://images.pexels.com/photos/2387793/pexels-photo-2387793.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260); */
     background-position: center;
     padding:1.8rem 1rem;
     border-bottom-left-radius: 1rem;
@@ -36,9 +35,8 @@ nav{
     background-image:url("/images/wallpaperflare.com_wallpaper.jpg");
     height: 1350px;
     width: auto;
-    /* background-size:100%; */
     background-repeat: no-repeat;
-    background-size: cover ;
+    background-size:cover ;
     opacity: 0.95;
     max-width: 100%;
     margin-bottom: 0;
@@ -52,7 +50,6 @@ nav{
     display: block;
     height: 280px;
     width: auto;
-    /* border: 1px solid black; */
     background-color: rgb(255, 255, 255,.3);
     box-shadow: 0 5px 20px rgba(0,0,0,.7);
     margin: 120px auto;
@@ -71,7 +68,6 @@ nav{
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.7);
     height: 400px;
     width: auto;
-    /* border: 1px solid black; */
     margin: 110px auto;
     border-radius: 1rem;
 }
@@ -103,7 +99,6 @@ nav{
     height: 50px;
     width: auto;
     padding: 1rem;
-    /* border: 2px solid black; */
     background-color: rgb(240, 248, 255,.7);
     border-radius: 1rem;
     margin-top:10px ;
@@ -120,7 +115,6 @@ nav{
 }
 
 .footer{
-    /* margin-top: 12.5rem; */
     background-color: rgba(39, 39, 39, 0.8);
     color: honeydew;
     padding:1rem 1rem;
@@ -131,7 +125,6 @@ nav{
 }
 .footer-top{
     margin-top: 0.5rem;
-    /* background-color: rgba(39, 39, 39, 0.8); */
     color: honeydew;
     padding:0rem 1rem;
     border-top-left-radius: 1rem;
@@ -143,7 +136,6 @@ nav{
     font-family: 'EB Garamond', serif;
     font-size: 1rem;
     letter-spacing: 8px;
-    /* text-shadow: 3px 3px 3px grey; */
 }
 
 .footer-image{
