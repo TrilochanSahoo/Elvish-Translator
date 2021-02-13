@@ -1,8 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Spectral:wght@600&display=swap');
-.{
-    transform: scale(0.8);
-    transform-origin: 0 0;
-}
 
 body{
     margin: 0px;
@@ -37,7 +33,7 @@ nav{
 
 
 .middle{
-    background-image:url("/images/wallpaperflare.com_wallpaper.jpg");
+    background-image:url("/images/838314.jpg");
     height: 1350px;
     width: auto;
     background-repeat: no-repeat;
